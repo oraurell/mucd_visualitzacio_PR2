@@ -9,7 +9,7 @@ Universitat Oberta de Catalunya<br>
 Base dades:<br>
   Arxiu: Accidents_de_tr_nsit_amb_morts_o_ferits_greus_a_Catalunya.csv<br>
   Enllaç: https://analisi.transparenciacatalunya.cat/Transport/Accidents-de-tr-nsit-amb-morts-o-ferits-greus-a-Ca/rmgc-ncpb<br>
-  Font: Generalitat de Catalunya<br>
+  Font: Departament d'Interior de la Generalitat de Catalunya<br>
 
 Visualització:<br>
   Arxiu html: index.html<br>

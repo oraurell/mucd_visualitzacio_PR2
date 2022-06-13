@@ -13,5 +13,5 @@ Base dades:<br>
 
 Visualització:<br>
   Arxiu html: index.html<br>
-  Enllaç: https://oraurell.github.io/mucd_visualitzacio_PR2/<br>
-  Elaborat amb l'aplicació Flourish<br>
+  Enllaç: https://oraurell.github.io/mucd_visualitzacio_PR2<br>
+  Aplicació: https://app.flourish.studio<br>
